@@ -1,0 +1,4 @@
+openmp can be easily compiled using -fopenmp argument.
+example:
+gcc -fopenmp -o test test.c
+
